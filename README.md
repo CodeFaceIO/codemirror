@@ -1,5 +1,4 @@
-# JavaScript-snippets
-> Click :star:  if you like the project. Pull Request are highly appreciated. Follow us on [Facebook](https://www.facebook.com/snippetsJS)
+# CODEFACE JS CODE SNIPPETS
 
 ### Table of Contents
 | No. | Questions |
